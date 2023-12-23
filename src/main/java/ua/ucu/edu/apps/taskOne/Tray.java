@@ -18,8 +18,8 @@ public abstract class Tray {
         } else if (remainingAmount > 0) {
             throw new IllegalArgumentException();
         }
-        System.out.println("You received " + amount / denomination + 
-        " of denomination " + denomination);
+        System.out.println("You received " + amount / denomination
+        + " of denomination " + denomination);
     }
     
 }
