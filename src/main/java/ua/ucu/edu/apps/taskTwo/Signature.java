@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.taskTwo;
+package ua.ucu.edu.apps.tasktwo;
 
 import java.util.function.Consumer;
 

@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.taskOne;
+package ua.ucu.edu.apps.taskone;
 
 public abstract class Tray {
     private int denomination;

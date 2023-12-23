@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.taskTwo;
+package ua.ucu.edu.apps.tasktwo;
 
 public class Main {
     private static final int ARG = 10;

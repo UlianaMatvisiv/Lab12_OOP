@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.taskOne;
+package ua.ucu.edu.apps.taskone;
 
 public class Traytwo extends Tray {
     private static final int DENOMINATION_VALUE = 2;

@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.taskOne;
+package ua.ucu.edu.apps.taskone;
 
 public class Main {
     private static final int AMOUNT = 756;
